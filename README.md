@@ -2,7 +2,7 @@
 
 A classic Snake game built using Python and Pygame.
 
-![Gameplay Screenshot](https://www.google.com/imgres?q=snake%20game%20in%20python&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A964%2F1*vSCt2ElANJDRuZVDvTlTeA.png&imgrefurl=https%3A%2F%2Fmedium.com%2Fswlh%2Fsnake-game-with-python-b905f4628de8&docid=fDnwGQ9bG--ZlM&tbnid=-qlou7JZBRkkUM&vet=12ahUKEwiRzaHy-ZeLAxWbTWwGHZgbLeEQM3oECGYQAA..i&w=964&h=510&hcb=2&ved=2ahUKEwiRzaHy-ZeLAxWbTWwGHZgbLeEQM3oECGYQAA )
+![Gameplay Screenshot](https://miro.medium.com/v2/resize:fit:1179/1*VBpWmRgn-33kcLf-NzIOsQ.pngA )
 )
 
 ## Features
