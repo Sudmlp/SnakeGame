@@ -2,7 +2,7 @@
 
 A classic Snake game built using Python and Pygame.
 
-![Gameplay Screenshot](![Uploading Screenshot 2025-01-28 132335.png…]()
+![Gameplay Screenshot](C:\Users\hp\Pictures\Screenshots\Screenshot 2025-01-28 132335.png )
 )
 
 ## Features
