@@ -2,7 +2,7 @@
 
 A classic Snake game built using Python and Pygame.
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](https://thepythoncode.com/media/articles/make-a-snake-game-with-pygame-in-python/snake-game.jpg)
 
 ## Features
 - Arrow-key controls
